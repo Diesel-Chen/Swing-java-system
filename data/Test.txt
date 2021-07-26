@@ -1,0 +1,3 @@
+{"patientName":"张三","patientSex":"女","templateName":"模版一","templateType":"A","createTime":"2021-07-2112:02:15","operator":"001","score":12,"suggestion":"良好"}
+{"patientName":"李四","patientSex":"男","templateName":"模版二update","templateType":"A","createTime":"2021-07-2112:18:08","operator":"001","score":10,"suggestion":"一般"}
+{"patientName":"阿斯顿","patientSex":"1","templateName":"模版一","templateType":"A","createTime":"2021-07-2112:28:37","operator":"zhansan","score":12,"suggestion":"优秀"}

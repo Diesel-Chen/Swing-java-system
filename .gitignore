@@ -1,0 +1,8 @@
+
+# About IntelliJ
+/out/
+/.idea/
+*.iml
+
+# macOs
+.DS_Store

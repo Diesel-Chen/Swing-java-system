@@ -1,0 +1,4 @@
+{"id":"001","password":"001","name":"张三医生","birthday":"12312","zhuanchang":"21312","post":"医生","telephone":"123123"}
+{"id":"123123","password":"123","name":"王五","birthday":"12312","zhuanchang":"123","post":"医生","telephone":"123123"}
+{"id":"002","password":"12312","name":"李四护工","birthday":"12312","zhuanchang":"123","post":"护工","telephone":"123123"}
+{"id":"zhansan","password":"001"}

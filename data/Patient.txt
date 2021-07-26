@@ -1,0 +1,3 @@
+{"name":"阿斯顿","birthday":"1","sex":"1","identity":"1","telephone":"1","family":"1","familytel":"1"}
+{"name":"张三","birthday":"213123","sex":"女","identity":"12312","telephone":"123123","family":"12312","familytel":"123123"}
+{"name":"张三","birthday":"123123","sex":"123","identity":"12312","telephone":"123","family":"123","familytel":"123"}
